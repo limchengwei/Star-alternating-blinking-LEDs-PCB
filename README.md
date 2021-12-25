@@ -12,6 +12,8 @@ The 1K ohm resistor is used to limit the current to avoid overheating of the cir
 
 Things that you will need:
 
+JLCPCB Customized PCB             * 1
+
 1210 Resistor 7.5K ohm            * 2
 
 1210 Resistor 1K ohm              * 1
