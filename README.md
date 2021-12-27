@@ -8,7 +8,9 @@ Frequency, f = 1 / (0.68 * 2 * R * C)
 
 We are using 7.5K ohm resistors and 100uF capacitors, which gives us about 1 Hz frequency. The cycle is about 1 second.
 
-The 1K ohm resistor is used to limit the current to avoid overheating of the circuit.
+The 100 ohm resistor is used to limit the current to avoid overheating of the circuit.
+
+Current, I = (5 - 2) / 100 = 0.03A for each set of 6 LEDs.
 
 Things that you will need:
 
@@ -16,7 +18,7 @@ JLCPCB Customized PCB             * 1
 
 1210 Resistor 7.5K ohm            * 2
 
-1210 Resistor 1K ohm              * 1
+1210 Resistor 100 ohm             * 1
 
 1210 Capacitor 100uF              * 2
 
