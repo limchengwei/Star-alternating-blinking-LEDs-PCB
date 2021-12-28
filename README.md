@@ -1,6 +1,6 @@
 # Star-alternating-blinking-LEDs-PCB
 
-Thank you JLCPCB for sponsoring me this project.
+Thank you [JLCPCB](https://jlcpcb.com/RAT) for sponsoring me this project.
 
 The star PCB uses transistors and capacitors to create 2 sets of alternating square waveforms which light the LEDs.
 
@@ -14,7 +14,7 @@ Current, I = (5 - 2) / 100 = 0.03A for each set of 6 LEDs.
 
 Things that you will need:
 
-JLCPCB Customized PCB             * 1
+[JLCPCB](https://jlcpcb.com/RAT) Customized PCB             * 1
 
 1210 Resistor 7.5K ohm            * 2
 
@@ -36,4 +36,4 @@ Solder Paste, Rework
 
 Please visit https://www.hackster.io/limchengwei/star-alternating-blinking-leds-pcb-de70e0 for more information about the Star PCB project.
 
-I would like to thank JLCPCB again for sponsoring the PCB and please buy your PCB at jlcpcb.com/RAT
+I would like to thank [JLCPCB](https://jlcpcb.com/RAT) again for sponsoring the PCB and please buy your PCB at [https://jlcpcb.com/RAT](https://jlcpcb.com/RAT)
