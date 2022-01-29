@@ -36,4 +36,6 @@ Solder Paste, Rework
 
 Please visit https://www.hackster.io/limchengwei/star-alternating-blinking-leds-pcb-de70e0 for more information about the Star PCB project.
 
+Please visit https://youtu.be/A-IpcxZSMOg for the working product video.
+
 I would like to thank [JLCPCB](https://jlcpcb.com/RAT) again for sponsoring the PCB and please buy your PCB at [https://jlcpcb.com/RAT](https://jlcpcb.com/RAT)
